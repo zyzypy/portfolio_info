@@ -4,7 +4,7 @@ Python Flask Video Tutorial
 Status:  obsoleted  状态：废弃  
 Year: 2018  
 Language: Chinese 中文  
-Format: recorded  
+Format: live recorded  
 Handout:  [todo: Handout url](https://)  
 
 Introduce: 
