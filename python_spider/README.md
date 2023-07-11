@@ -4,7 +4,7 @@ Python Web Crawler(Spider)
 Status:  
 Year: 2021  
 Language: Chinese 中文  
-Format: live recorded  
+Form: campus teaching  
 Watching Online: [watching online](https://buckets.zyzypy.com/python_spider/)  
 
 Introduce:  
@@ -77,23 +77,17 @@ Pre requirement: has foundational of Python and Frontend.
 | students oral defense                       | 学生答辩            |
 
 ## Screenshot
-![1](./README_IMG/1.png)
-![2](./README_IMG/2.png)
-![3](./README_IMG/3.png)
-![4](./README_IMG/4.png)
-![5](./README_IMG/5.png)
-![6](./README_IMG/6.jpeg)
+![1](./README_IMG/1.png)  
+![2](./README_IMG/2.png)  
+![3](./README_IMG/3.png)  
+![4](./README_IMG/4.png)  
+![5](./README_IMG/5.png)  
+![6](./README_IMG/6.jpeg)  
 
 ## License
 The Copyright belongs to my previous Company and Me.  
 This is a promotional course, allow to watch it online, disallow to download.  
-版权属于公司，著作权属于本人。由于是宣传招生视频，所以是可公开的，可以在线观看，有兴趣直接咨询前公司，不可下载。
-
-
-
-python web  readme.md
-![](./README_IMG/wolf.png)
-
+版权属于公司，著作权属于本人。由于是宣传招生视频，所以是可公开的，可以在线观看，有兴趣直接咨询前公司，不可下载。  
 
 
 

@@ -4,7 +4,7 @@ Python Web Full Stack
 Status: depreciate  
 Year: 2018 2019  
 Language: Chinese 中文  
-Format: live teaching  
+Format: campus teaching  
 Watching Online: not provided  
 
 Introduce:  

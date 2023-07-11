@@ -4,7 +4,7 @@ Python Basic Video Tutorial
 Status:  
 Year: 2020  
 Language: Chinese 中文  
-Format: pre-recorded  
+Form: pre-recorded  
 Watching Online:  [watching online](https://buckets.zyzypy.com/python_basic/)  
 
 Introduce:  
