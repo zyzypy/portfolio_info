@@ -7,7 +7,7 @@ Language: Chinese 中文
 Format: live recorded  
 Handout:  [todo: Handout url](https://)  
 
-Introduce: 
+Introduce:  
 Python Flask tutorial, contains videos and handout. Both side terminate of cooperation midway for some reasons,
 The video only has half the outline plan, and due to the early recording time, the content is outdated, 
 thus don't put video up.  
