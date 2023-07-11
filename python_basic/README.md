@@ -14,8 +14,8 @@ Python getting started tutorial for novices, contains python syntax foundation a
 
 
 ## Index  
-
-| Index                                      | 目录                      |
+<!-- for GitHub pages render table, blank space needed in the end of every line-->
+| Index                                      | 目录                      |    
 |:-------------------------------------------|:------------------------|              
 | L1-C1 Install Interpreter                  | L1-C1 安装解释器           |  
 | L1-C2 Two ways to run code                 | L1-C2-运行代码的两种方式       |  
