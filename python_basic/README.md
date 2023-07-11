@@ -11,8 +11,10 @@ Introduce:
 Python getting started tutorial for novices, contains python syntax foundation and a greedy snake game.  
 介绍: 
 面向无基础初学者的视频，包含python语法基础，命令行运行的简易版学生管理程序，最后用贪吃蛇游戏贯通前面的知识。
-## Index
-<!--lines aren't easy to align in pycharm markdown editor-->
+
+
+## Index  
+
 | Index                                      | 目录                      |
 |:-------------------------------------------|:------------------------|              
 | L1-C1 Install Interpreter                  | L1-C1 安装解释器           |  
