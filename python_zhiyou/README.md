@@ -6,6 +6,7 @@ Year: 2018 2019
 Language: Chinese 中文  
 Format: campus teaching  
 Watching Online: not provided  
+Handout: not provided  
 
 Introduce:  
 Led a class and taught for half a year, the course is comprehensive, which is a good exercise for myself.
@@ -15,9 +16,11 @@ The course is not public or promotional,thus videos is not provided.
 介绍: 
 初入讲师行业，赶上中国国内Python培训热潮的末期，完整带了一个班，教了半年，知识系统全面，对自己是很好的锻炼，全力以赴教学生，对学生也有感情。  
 视频不是公开宣传性质、加上课上实录时间长节奏慢、有底噪、文件大、软件版本已过时，因此不提供视频。
+
+
 ## Index
-Due to the large amount of content and business secret, only a rough outline is provided.  
-由于内容较多和商业原因，仅提供粗略大纲。  
+Due to the large amount of content, only a rough outline is provided.  
+由于内容较多，仅提供粗略大纲。  
 
 | Index                                | 目录        |
 |:-------------------------------------|:----------|

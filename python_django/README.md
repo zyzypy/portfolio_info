@@ -29,41 +29,40 @@ Is the portrait of you? Looking so young, I thought it was an older person with 
 
 
 ## Index
-Pre requirement: has foundational of Python and Frontend.   
+Pre requirement: has foundational of Python and Frontend.  
 
-
-| Index                                | 目录               |
-|:-------------------------------------|:-----------------|
-| 01 overview and interpreter          | 01 概述和安装解释器      |
-| 02 two ways to run code              | 02 运行代码的两种方式     |
-| 03 Pycharm                           | 03 集成开发工具pycharm |
-| 04 basic data type                   | 04 基本类型          |
-| 05 loop                              | 05 分支和循环         |
-| 06 function                          | 06 函数            |
-| 07 list                              | 07 列表            |
-| 08 dictionary tuple                  | 08 字典元组          |
-| 09 student management simple version | 09 学生管理命令行版      |
-| 10 class                             | 10 类             |
-| 11 encoding and handle local files   | 11 编码和读写本地文件     |
-| 12 packages                          | 12 包             |
-| 13 introduction of Web development   | 13 Web开发介绍       |
-| 14 Django start                      | 14 Django框架初识    |
-| 15 project organization              | 15 目录组织          |
-| 16 view                              | 16 视图            |
-| 17 ORM part.1                        | 17 对象映射模型1       |
-| 18 ORM part.2                        | 18 对象映射模型2       |
-| 19 ORM part.3                        | 19 对象映射模型3       |
-| 20 ORM part.4                        | 20 对象映射模型4       |
-| 21 admin tool                        | 21 管理后台工具        |
-| 22 list page part.1                  | 22 问题列表页1        |
-| 23 list page part.2                  | 23 问题列表页2        |
-| 24 details page                      | 24 问题详情页         |
-| 25 voting and results page           | 25 投票和结果页        |
-| 26 debug                             | 26 调试模式          |
-| 27 static files                      | 27 静态文件          |
-| 28 upload files                      | 28 上传文件          |
-| 29 postgre database                  | 29 大象数据库         |
-| 30 next step suggestions             | 30 下一步学习建议       |
+| Index                                | 目录               |  
+|:-------------------------------------|:-----------------|  
+| 01 overview and interpreter          | 01 概述和安装解释器      |  
+| 02 two ways to run code              | 02 运行代码的两种方式     |  
+| 03 Pycharm                           | 03 集成开发工具pycharm |  
+| 04 basic data type                   | 04 基本类型          |  
+| 05 loop                              | 05 分支和循环         |  
+| 06 function                          | 06 函数            |  
+| 07 list                              | 07 列表            |  
+| 08 dictionary tuple                  | 08 字典元组          |  
+| 09 student management simple version | 09 学生管理命令行版      |  
+| 10 class                             | 10 类             |  
+| 11 encoding and handle local files   | 11 编码和读写本地文件     |  
+| 12 packages                          | 12 包             |  
+| 13 introduction of Web development   | 13 Web开发介绍       |  
+| 14 Django start                      | 14 Django框架初识    |  
+| 15 project organization              | 15 目录组织          |  
+| 16 view                              | 16 视图            |  
+| 17 ORM part.1                        | 17 对象映射模型1       |  
+| 18 ORM part.2                        | 18 对象映射模型2       |  
+| 19 ORM part.3                        | 19 对象映射模型3       |  
+| 20 ORM part.4                        | 20 对象映射模型4       |  
+| 21 admin tool                        | 21 管理后台工具        |  
+| 22 list page part.1                  | 22 问题列表页1        |  
+| 23 list page part.2                  | 23 问题列表页2        |  
+| 24 details page                      | 24 问题详情页         |  
+| 25 voting and results page           | 25 投票和结果页        |  
+| 26 debug                             | 26 调试模式          |  
+| 27 static files                      | 27 静态文件          |  
+| 28 upload files                      | 28 上传文件          |  
+| 29 Postgres database                 | 29 大象数据库         |  
+| 30 next step suggestions             | 30 下一步学习建议       |  
 
 
 ## Screenshot
