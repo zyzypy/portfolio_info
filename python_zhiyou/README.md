@@ -22,15 +22,15 @@ The course is not public or promotional,thus videos is not provided.
 Due to the large amount of content, only a rough outline is provided.  
 由于内容较多，仅提供粗略大纲。  
 
-| Index                                | 目录        |
-|:-------------------------------------|:----------|
-| Section1 Python foundations          | Python基础  |
-| Section2 Frontend and Database basic | 前端和数据库基础  |
-| Section3 Web Flask framework         | Flask框架   |
-| Section4 Crawler                     | 网络爬虫      |
-| Section5 Web Django framework        | Django框架  |
-| Section6 Server basic and Deployment | 服务器基础与部署  |
-| Section7 Employment support          | 就业支持      |
+| Index                                | 目录           |
+|:-------------------------------------|:-------------|
+| Section1 Python foundations          | 第一章 Python基础 |
+| Section2 Frontend and Database basic | 第二章 前端和数据库基础 |
+| Section3 Web Flask framework         | 第三章 Flask框架  |
+| Section4 Crawler                     | 第四章 网络爬虫     |
+| Section5 Web Django framework        | 第五章 Django框架 |
+| Section6 Server basic and Deployment | 第六章 服务器基础与部署 |
+| Section7 Employment support          | 第七章 就业支持     |
 
 
 ## Screenshot

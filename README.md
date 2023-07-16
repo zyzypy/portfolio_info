@@ -1,7 +1,7 @@
 portfolio_info
 ===
 Private, docs of works information, held on gh-pages, used by my_portfolio.
-
+无代码的项目介绍，作品集网站使用。
 
 
 ## work doc link
