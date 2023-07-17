@@ -1,17 +1,10 @@
 portfolio_info
 ===
-Private, docs of works information, held on gh-pages, used by my_portfolio.
-无代码的项目介绍，作品集网站使用。
+Private, docs for works which with no code, held on GitHub Pages, linked by my "portfolio".
+作品集网站使用，这里存放无代码的项目的介绍，部署到GitHub Pages后链接被作品集网站引用。有代码的在代码项目中的Readme维护。
 
 
 ## work doc link
 Every subdirectory is responsible for a project's description.
 Visit  https://{account-name}.github.io/{this repo}/{subdirectory}/
-
-
-python_basic https://zyzypy.github.io/portfolio_info/python_basic/
-python_web https://zyzypy.github.io/portfolio_info/python_django/
-python_web https://zyzypy.github.io/portfolio_info/python_flask/
-python_spider https://zyzypy.github.io/portfolio_info/python_spider/
-python_spider https://zyzypy.github.io/portfolio_info/python_zhiyou/
-python_raspberrypi https://zyzypy.github.io/portfolio_info/respberrypi_air/
+example python_basic https://zyzypy.github.io/portfolio_info/python_basic/
