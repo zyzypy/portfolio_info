@@ -1,4 +1,4 @@
-Python Web Crawler(Spider)
+Python Web Crawler
 ===
 ## Brief
 Status:  

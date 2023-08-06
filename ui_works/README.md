@@ -3,7 +3,7 @@ UI Works
 Status: Obsoleted 废弃  
 Year: 2014  
 
-If you are curious about why a coder work on UI, click mouse right button to translate website.  
+If you are curious about why a coder worked on UI, click mouse right button to translate website.  
 
 
 ## 入门教材自学
